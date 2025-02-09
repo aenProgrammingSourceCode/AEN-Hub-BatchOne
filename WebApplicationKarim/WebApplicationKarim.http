@@ -1,0 +1,6 @@
+@WebApplicationKarim_HostAddress = http://localhost:5001
+
+GET {{WebApplicationKarim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
