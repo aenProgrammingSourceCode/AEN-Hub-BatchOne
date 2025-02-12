@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,45 +42,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebApplicationKarim\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebApplicationKarim\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:29:08.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Controllers\\CompanyController.cs",
-              "RelativeDocumentMoniker": "WebApplicationKarim\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Controllers\\CompanyController.cs",
-              "RelativeToolTip": "WebApplicationKarim\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:09:25.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplicationKarim\\Program.cs",
-              "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Program.cs",
-              "RelativeToolTip": "WebApplicationKarim\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T16:08:12.484Z",
-              "EditorCaption": ""
             }
           ]
         }

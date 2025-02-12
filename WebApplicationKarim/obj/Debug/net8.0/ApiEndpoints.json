@@ -1,8 +1,66 @@
 [
   {
+    "ContainingType": "WebApplicationKarim.Feature.Applications.Controllers.CompanyController",
+    "Method": "AddAsync",
+    "RelativePath": "api/Company/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
+    "Method": "GetAllProducts",
+    "RelativePath": "Company",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
+    "Method": "GetProductById",
+    "RelativePath": "Company/{id}",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
+    "Method": "DeleteProduct",
+    "RelativePath": "Company/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
     "Method": "CreateProductForInternaltionalCustomer",
-    "RelativePath": "Company/CreateProductForInternaltionalCustomer/create",
+    "RelativePath": "Company/create",
     "HttpMethod": "",
     "IsController": true,
     "Order": 0,
@@ -23,7 +81,7 @@
   {
     "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
     "Method": "CreateProductForInternaltionalCustomer",
-    "RelativePath": "Company/CreateProductForInternaltionalCustomer/Create",
+    "RelativePath": "Company/Create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -43,24 +101,8 @@
   },
   {
     "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
-    "Method": "DeleteProduct",
-    "RelativePath": "Company/DeleteProduct/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
     "Method": "editProduct",
-    "RelativePath": "Company/editProduct/{id}",
+    "RelativePath": "Company/edit/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -79,32 +121,6 @@
         "Name": "Name",
         "Type": "System.String",
         "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
-    "Method": "GetAllProducts",
-    "RelativePath": "Company/GetAllProducts",
-    "HttpMethod": "",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApplicationKarim.Controllers.CompanyController",
-    "Method": "GetProductById",
-    "RelativePath": "Company/GetProductById/{id}",
-    "HttpMethod": "",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
       }
     ],
     "ReturnTypes": []
