@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\feature\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\feature\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\feature\\serviceimplementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\feature\\serviceimplementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\feature\\applications\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\feature\\applications\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|c:\\users\\x-star\\source\\repos\\webapplicationkarim\\webapplicationkarim\\feature\\serviceimplementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C767A96A-8FA7-4CEB-89FC-BD9E9CA4D9DD}|WebApplicationKarim\\WebApplicationKarim.csproj|solutionrelative:webapplicationkarim\\feature\\serviceimplementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,41 +54,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplicationKarim\\Program.cs",
-              "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Program.cs",
-              "RelativeToolTip": "WebApplicationKarim\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:14:14.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CompanyController.cs",
               "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Feature\\Applications\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "WebApplicationKarim\\Feature\\Applications\\Controllers\\CompanyController.cs",
               "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Feature\\Applications\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "WebApplicationKarim\\Feature\\Applications\\Controllers\\CompanyController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:11:59.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Feature\\DataAccess\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "WebApplicationKarim\\Feature\\DataAccess\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Feature\\DataAccess\\Repositories\\Repository.cs",
-              "RelativeToolTip": "WebApplicationKarim\\Feature\\DataAccess\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:10:51.74Z",
+              "WhenOpened": "2025-02-16T16:44:23.67Z",
               "EditorCaption": ""
             },
             {
@@ -107,9 +73,9 @@
               "RelativeDocumentMoniker": "WebApplicationKarim\\Feature\\ServiceImplementation\\CompanyService.cs",
               "ToolTip": "C:\\Users\\X-star\\source\\repos\\WebApplicationKarim\\WebApplicationKarim\\Feature\\ServiceImplementation\\CompanyService.cs",
               "RelativeToolTip": "WebApplicationKarim\\Feature\\ServiceImplementation\\CompanyService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T16:05:22.957Z",
+              "WhenOpened": "2025-02-16T16:43:56.983Z",
               "EditorCaption": ""
             }
           ]

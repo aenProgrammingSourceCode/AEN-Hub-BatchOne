@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApplicationKarim.Feature.DataAccess.EntityConfigurations;
+using WebApplicationKarim.Feature.DomainModel;
 
 namespace WebApplicationKarim.Feature.DataAccess
 {
@@ -19,6 +20,7 @@ namespace WebApplicationKarim.Feature.DataAccess
             modelBuilder.ApplyConfiguration(new CompanyConfigruation());
         }
         
-
+        
+        public DbSet<Company> Companies { get; set; }
     }
 }

@@ -11,8 +11,8 @@ using WebApplicationKarim.Feature.DataAccess;
 namespace WebApplicationKarim.Migrations
 {
     [DbContext(typeof(KarimDbContext))]
-    [Migration("20250212155026_CreateNewTable")]
-    partial class CreateNewTable
+    [Migration("20250216163947_createTable")]
+    partial class createTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -39,7 +39,7 @@ namespace WebApplicationKarim.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Company");
+                    b.ToTable("Companies");
                 });
 #pragma warning restore 612, 618
         }

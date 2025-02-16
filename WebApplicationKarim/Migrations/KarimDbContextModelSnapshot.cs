@@ -36,7 +36,7 @@ namespace WebApplicationKarim.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Company");
+                    b.ToTable("Companies");
                 });
 #pragma warning restore 612, 618
         }

@@ -3,7 +3,7 @@ namespace WebApplicationKarim.Feature.DataAccess.Repositories
 {
     public class Repository<T>:IRepository<T> where T:class
     {
-        protected KarimDbContext _context;
+        protected readonly KarimDbContext _context;
         public Repository(KarimDbContext context)
         {
             _context = context;

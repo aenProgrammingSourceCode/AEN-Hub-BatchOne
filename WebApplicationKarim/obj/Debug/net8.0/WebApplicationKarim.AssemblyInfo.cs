@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApplicationKarim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cdccb2de6fe0102f0ab0a70a3df2ce40ca2d70f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341fdf488531439ce19d3c43e0f48b1a5874d9e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApplicationKarim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApplicationKarim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

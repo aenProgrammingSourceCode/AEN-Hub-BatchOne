@@ -5,13 +5,13 @@
 namespace WebApplicationKarim.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateNewTable : Migration
+    public partial class createTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "Company",
+                name: "Companies",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -20,7 +20,7 @@ namespace WebApplicationKarim.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Company", x => x.Id);
+                    table.PrimaryKey("PK_Companies", x => x.Id);
                 });
         }
 
@@ -28,7 +28,7 @@ namespace WebApplicationKarim.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Company");
+                name: "Companies");
         }
     }
 }
